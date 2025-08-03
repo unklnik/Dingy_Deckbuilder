@@ -1,13 +1,13 @@
 # Dingy Deckbuilder
 A basic layout for a debck building card game made with Go & [Raylib](https://github.com/gen2brain/raylib-go) requires mouse for input.
 
-F1 Key: Debug
+**F1 Key:** Debug
 
-F2 Key: New Level
+**F2 Key:** New Level
 
-F3 Key: Player Death Animation
+**F3 Key:** Player Death Animation
 
-F4 Key: Map On/Off
+**F4 Key:** Map On/Off
 
 
 I got very bored of making it though perhaps you have some use for the code. 
