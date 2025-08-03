@@ -1,5 +1,5 @@
 # Dingy Deckbuilder
-A basic layout for a debck building card game made with Go & Raylib[Raylib](https://github.com/gen2brain/raylib-go) requires mouse for input.
+A basic layout for a debck building card game made with Go & [Raylib](https://github.com/gen2brain/raylib-go) requires mouse for input.
 
 F1 Key: Debug
 F2 Key: New Level
