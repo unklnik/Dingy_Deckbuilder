@@ -3,7 +3,6 @@ package main
 import (
 	"slices"
 
-	rl "github.com/gen2brain/raylib-go/raylib"
 	z "github.com/gen2brain/raylib-go/raylib"
 )
 
@@ -93,7 +92,7 @@ type CARD struct {
 
 func INITGAME() { //MARK: INIT GAME
 
-	rl.SetExitKey(rl.KeyEnd) //DELETE
+	z.SetExitKey(z.KeyEnd) //DELETE
 	//LEV BG
 	w := float32(SCRH) - UNIT*2
 	h := w
